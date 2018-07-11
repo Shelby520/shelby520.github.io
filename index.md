@@ -1,8 +1,8 @@
-## 美好的时代，哈哈
+## 美好的时代
 
-You can use the [editor on GitHub](https://github.com/Shelby520/shelby520.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    今天是2018年7月11日，很美好的一天，早上7点钟起床，7点半吃早餐，8点钟出发，9点钟之前抵达公司，早上还可以和小孩子逗逗乐，宝宝的世界很纯真、很活泼。
+    
+    白天上班，早上查找问题，在定位到问题原因的时候，心里还是蛮happy的，下午我就自己学点东西，正好想到了[GitHub](http://github.com)，可以学一下，先要安装虚拟机，我想安装一个Linux的Ubuntu系统，应该有很久要忙，然后按网上的教程，自己在虚拟机里面装个Git。
 
 ### Markdown的语法介绍
 
